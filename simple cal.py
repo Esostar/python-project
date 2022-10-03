@@ -1,5 +1,3 @@
-# python program for a simple calculator
-# defining the basic arithemetic operations
 def Add(x , y):
     plus = (x + y)
     return (plus)
